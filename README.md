@@ -13,4 +13,6 @@ Here is a brief description of the features:
 
 Your final submission should be the test.csv file with an added column named 'y_pred' which are your predictions. Your submission will be evaluated using the standard RMSE number. Along with the test file, please also upload your jupyter notebook.
 
-Please update your notebook and csv file in your self-named branch in this repository. 
+The link to the dataset is here: https://drive.google.com/open?id=1k9lzP57bNfJfw75NsPTDj_cUXhVT9sB1
+
+Please share your .csv file with me via a Gdrive link as well since the files are large. 
